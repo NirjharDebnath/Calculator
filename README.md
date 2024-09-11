@@ -1,1 +1,1 @@
-A fullt functionak calculator window
+A fully functionak calculator window
